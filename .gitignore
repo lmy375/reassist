@@ -1,0 +1,8 @@
+# python
+__pycache__/
+*.py[cod]
+
+# report or log by REassist
+report/index.html
+report/info_man.dump
+log/*.log
